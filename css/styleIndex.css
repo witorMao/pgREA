@@ -93,3 +93,9 @@ footer{
     }
 }
 
+
+.conteudo .downloads li a{
+    text-decoration: none;
+    color: white;
+}
+
