@@ -1,0 +1,6 @@
+@import "styleIndex.css"; 
+
+.conteudo .downloads li a{
+    text-decoration: none;
+    color: white;
+}
