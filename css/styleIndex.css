@@ -1,3 +1,18 @@
+@media only screen and (min-width: 360px) and (max-width: 500px){
+    header{
+        font-size: 90%;
+    }
+
+    #menu li {
+        font-size: 0.7em;
+    }
+
+    #pgIntro{
+        font-size: 90%;
+    }
+}
+
+
 body{
     margin: 0% 0% 0% 0%;
     font-family: 'arial';
@@ -78,21 +93,6 @@ footer{
     font-size: 70%;
     background-color: rgb(109, 105, 105);
 }
-
-@media only screen and (min-width: 360px) and (max-width: 500px){
-    header{
-        font-size: 90%;
-    }
-
-    #menu li {
-        font-size: 0.7em;
-    }
-
-    #pgIntro{
-        font-size: 90%;
-    }
-}
-
 
 .conteudo .downloads li a{
     text-decoration: none;
