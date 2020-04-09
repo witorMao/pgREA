@@ -5,7 +5,7 @@
     color: white;
 }
 
-@media only screen and (min-width: 360px) and (max-width: 500px){
+/* @media only screen and (min-width: 360px) and (max-width: 500px){
     header{
         font-size: 90%;
     }
@@ -17,4 +17,4 @@
     #pgIntro{
         font-size: 90%;
     }
-}
+} */
